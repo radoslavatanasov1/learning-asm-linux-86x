@@ -1,6 +1,6 @@
 # ASM
 
-## Learning Assembly for Linux-x64
+## Learning Assembly for Linux-x86
 
 ```assembly
 global _start            ; Declare _start as the entry point
